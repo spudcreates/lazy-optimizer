@@ -1,4 +1,4 @@
 git remote remove origin
-git remote add origin https://github.com/<spudcreates>/lazy-optimizer.git
+git remote add origin https://gist.github.com/26b36f42672d66485f69045e968f720d.git
 git branch -M main
 git push -u origin main
